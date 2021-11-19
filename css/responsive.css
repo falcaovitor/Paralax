@@ -1,0 +1,27 @@
+@media (max-width: 900px)
+{
+    div.primeiro
+    {
+        width: 100%;
+        background-image: url("../img/inglaterra.jpg");
+        background-size: cover;
+        min-height: 100vh;
+        background-attachment: fixed;
+    }
+    div.segundo
+    {
+        width: 100%;
+        background-image: url("../img/japao.jpg");
+        background-size: cover;
+        min-height: 100vh;
+        background-attachment: fixed;
+    }
+    div.terceiro
+    {
+        width: 100%;
+        background-image: url("../img/brasil.jpg");
+        background-size: cover;
+        min-height: 100vh;
+        background-attachment: fixed;
+    }
+}
